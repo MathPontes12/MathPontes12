@@ -1,16 +1,33 @@
-## Hi there 👋
+# Ei, bem-vindo ao meu perfil!!
+## Sou Matheus Pontes
 
-<!--
-**MathPontes12/MathPontes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Ciências da Computação pela Universidade Estácio de Sá, Rio de Janeiro, Brasil.
 
-Here are some ideas to get you started:
+Desenvolvedor Júnior voltado pro Front-end com interesse em desenvolvimento mobile (Android/IOS), utilizando Flutter como framework e Dart como linguagem principal. Tenho conhecimento básico também em JavaScript e MySQL, e em ferramentas como Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+<div align= "center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" width= 100 height= 100 />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width= 60 height= 60/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"width= 100 height= 100 />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width= 100 height= 100/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= 100 height= 100/>
+          
+</div>
+  <br>
+  </br>
+<div align= "center">
+<a href="https://github.com/MathPontes12">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathPontes12&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MathPontes12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+  </br>
+
+## Contatos
+<div align= "center">
+<a href="https://www.instagram.com/math_pontes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@matheuspontes5"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/matheus-pontes-2b352b2bb/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
